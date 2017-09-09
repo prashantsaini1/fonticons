@@ -2,3 +2,4 @@
 - Titanium Sample App contains only necessary code for a mobile app project. You can create a test project and then use Titanium Sample App code to merge with the test app.
 - Android code is fully working code which contains a .jar in libs folder.
 
+![Alt text](/screenshot.png?raw=true "Android Sample App")
