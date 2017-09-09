@@ -1,0 +1,7 @@
+
+".fa" :   { font : { fontFamily : 'FontAwesome' } }
+".ma" :   { font : { fontFamily : 'Material Icons' } }
+
+
+".h1" : { font : { fontSize: 30 } }
+".h2" : { font : { fontSize: 20 } }

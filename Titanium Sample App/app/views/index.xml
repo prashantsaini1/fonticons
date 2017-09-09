@@ -1,0 +1,6 @@
+<Alloy>
+    <Window backgroundColor="white" layout="vertical">
+        <Label class="ma h1" text="\ue7fb" color="#557ada" top="50" />
+        <Button class="ma h2" title="\ue7fb" color="#c77446" top="50" />
+    </Window>
+</Alloy>
